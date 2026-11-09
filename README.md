@@ -1,2 +1,3 @@
 # Java-learning
-This is some stuff I made to Practice Java 
+
+This is a Student Grade Calculator, just some basic stuff :)
